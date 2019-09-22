@@ -20,7 +20,6 @@ export default class Table extends Component {
 				<thead>
 					<tr key="head">
 						<th>Age</th>
-						<th>Name</th>
 						<th>Points</th>
 						<th>Rank</th>
 					</tr>
